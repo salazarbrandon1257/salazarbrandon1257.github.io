@@ -3,8 +3,6 @@ logo: "/images/41262801542_22fc235ff3_z.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello, welcome to my githubpage. Here you will find all my projects along with links to my linkedin page and github 
   <br><br>
-  I am a Graduate student at the University of Texas at Dallas studying Mathematics with a specialization in pure math.
-  <br><br>
   <a href="https://www.linkedin.com/in/brandonosalazar/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
