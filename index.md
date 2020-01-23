@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Data Scraping and Analysis](/sample_page)
+[Data Scraping and Analysis](/page1)
 
 
 ---
