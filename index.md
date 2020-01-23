@@ -9,7 +9,6 @@
 
 ---
 [Cryptocurrency-predicting RNN Model ](/page2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
