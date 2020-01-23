@@ -5,7 +5,7 @@
 ### Projects 
 
 [Data Scraping and Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Cryptocurrency-predicting RNN Model ](/page2)
