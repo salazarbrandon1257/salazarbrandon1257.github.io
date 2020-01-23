@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Cryptocurrency-predicting RNN Model ](/pdf/sample_presentation.pdf)
+[Cryptocurrency-predicting RNN Model ](/page2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
