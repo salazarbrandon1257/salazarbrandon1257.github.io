@@ -13,8 +13,8 @@
 ---
 ### Resume
 
-- [Resume](/Resume)
+[Resume](/Resume)
 ---
-- <a href="https://www.linkedin.com/in/brandonosalazar/">My LinkedIn Profile</a> 
+<a href="https://www.linkedin.com/in/brandonosalazar/">My LinkedIn Profile</a> 
 ---
 
