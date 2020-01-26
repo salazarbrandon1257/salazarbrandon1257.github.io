@@ -32,18 +32,14 @@ for i in pages:
 #Now, we can use the find_all method to search for items by class 
 #In our case, we are looking for all li elements with this specific class.
 #after that, we can find specific objects by specifing the tag or class, and then use get text to get the price and name. 
-#for the rating I just used p['class'] since the rating was the class already, however it included the string 'star rating' so 
-#I removed that with strip, it also had the numbers worded so I had to convert the words into integers using if statements
+#for the rating I just used p['class'] since the rating was the class already, however it also had the numbers worded so I had to #convert the words into integers using if statements, it also had lists within lists so I had to choose the right element
 
     for a in soup.find_all('li', class_='col-xs-6 col-sm-4 col-md-3 col-lg-3'):
         product_price=a.find(class_="price_color")
         product_name=a.find('h3')
         product_rating=a.p['class']
-        #print(product_rating)
         price=product_price.get_text().strip().strip('Â£')
         name=product_name.get_text()
-        #rating=product_rating.strip().strip('star rating')
-        #print(rating)
         prices.append(price)
         products.append(name)
         ratings.append(product_rating)
