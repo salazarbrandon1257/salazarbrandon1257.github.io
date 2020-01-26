@@ -11,7 +11,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-
+#Here I chose the first 6 pages
 pages = ["http://books.toscrape.com/",
          "http://books.toscrape.com/catalogue/page-2.html",
          "http://books.toscrape.com/catalogue/page-3.html",
@@ -27,14 +27,14 @@ r=[]
 for i in pages:
     page = requests.get(i)
     soup = BeautifulSoup(page.content, 'html.parser')
-    #print(products)
-#print(soup.prettify()) 
+ 
 #class is 'col-xs-6 col-sm-4 col-md-3 col-lg-3'
-#Now, we can use the find_all method to search for items by class or by id.
+#Now, we can use the find_all method to search for items by class 
 #In our case, we are looking for all li elements with this specific class.
+#after that, we can find specific objects by specifing the tag or class, and then use get text to get the price and name. 
+#for the rating I just used p['class'] since the rating was the class already, however it included the string 'star rating' so 
+#I removed that with strip, it also had the numbers worded so I had to convert the words into integers using if statements
 
-    #def retrieve_first_product_price():
-        #print(soup.find_all('li', class_='col-xs-6 col-sm-4 col-md-3 col-lg-3'))
     for a in soup.find_all('li', class_='col-xs-6 col-sm-4 col-md-3 col-lg-3'):
         product_price=a.find(class_="price_color")
         product_name=a.find('h3')
@@ -47,21 +47,10 @@ for i in pages:
         prices.append(price)
         products.append(name)
         ratings.append(product_rating)
-        #print(ratings)
-    #print(products),  .strip().strip('$')
-#print(products)
-#print(prices)
-    #product_one = all_products[0]
-    #product_one_price = product_one.find(class_="price_color")
-    #print(product_one_price)
-    #try:
-     #   print(product_price.get_text())
-    #except AttributeError:
-     #   print("none")
-
+    
 for i in range(0, len(prices)):
 	ident.append(i)
-#print(ident)
+#since ratings had lists within lists 
 for i in range(0, len(ratings)):
     r.append(ratings[i][1])
 
