@@ -16,7 +16,7 @@
 
 ### Resume
 
-- [Resume](/resume)
+- [Resume](/Resume)
 
 
 ---
