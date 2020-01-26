@@ -17,7 +17,7 @@
 ### Resume
 
 - [Resume](/Resume)
-- [LinkedIn]<a href="https://www.linkedin.com/in/brandonosalazar/">View My LinkedIn Profile</a> 
+- <a href="https://www.linkedin.com/in/brandonosalazar/">My LinkedIn Profile</a> 
 
 ---
 
