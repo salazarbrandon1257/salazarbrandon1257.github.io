@@ -13,7 +13,7 @@
 
 ---
 
-[Sudoku Game and Solver ](/page2)
+[Data Analysis on U.S Flight Record Dataset (R)](/page2)
 
 
 ---
