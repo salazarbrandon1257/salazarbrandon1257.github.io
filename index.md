@@ -17,6 +17,10 @@
 
 
 ---
+[Sudoku Game and Solver ](/page2)
+
+
+---
 [Data Scraping and Analysis on E-commerce Website](/page1)
 
 ---
