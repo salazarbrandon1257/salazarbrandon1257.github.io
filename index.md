@@ -4,11 +4,11 @@
 
 ### Projects 
 
-[Sudoku Game and Solver ](/page2)
+[Android Chat App (Java, Android Studio, Firebase)](/page2)
 
 
 ---
-[Sudoku Game and Solver ](/page2)
+[Sorting Algorithms Visualizer and UI (React/Redux)](/page2)
 
 
 ---
