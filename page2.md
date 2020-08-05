@@ -1,6 +1,10 @@
-## This can be your internal website page / project page
-
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Sudoku Game and Solver (Python, tkinter)
+### Above is the code I used for this project, both the Solver and interactive game code is shown. Below is a description of my project.
+- One can run both of the programs by going into the command line and typing "SudokuGame.py --board n00b" or "SudokuSolver.py --board n00b" where n00b is a .sudoku file included above
+- Created a sudoku game that allows the user to play by interacting with a graphical user interface
+- Designed a sudoku solver using a backtracking algorithm to solve newly generated games
+- Below is a screenshot of the game with a clear board
+<br /> 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
