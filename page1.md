@@ -1,10 +1,8 @@
-## This can be your internal website page / project page
-
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+# Data Scraping and Analysis on e-commerce book website (Python, bs4, SQL)
+### Above is the code I used to scrape the data. Below is a description of my project along with graphs describing the data I scraped
+- Developed a program in Python to scrape data from an e-commerce book website, specifically product names, prices and ratings
+- Designed and implemented databases in SSMS for the purpose of descriptive statistical analysis, data cleansing and data analysis
+- Below you can find my code
 
 ```python
 #importing
@@ -65,14 +63,6 @@ for i in range(0, len(ratings)):
 df = pd.DataFrame({'id':ident,'Product Name':products,'Price':prices, 'Rating':r}) 
 df.to_csv('all.csv', index=False, encoding='utf-8')
 
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
