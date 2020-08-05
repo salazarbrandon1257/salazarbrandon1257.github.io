@@ -2,7 +2,7 @@
 ### Above is the code I used to scrape the data. Below is a description of my project along with graphs describing the data I scraped
 - Developed a program in Python to scrape data from an e-commerce book website, specifically product names, prices and ratings
 - Designed and implemented databases in SSMS for the purpose of descriptive statistical analysis, data cleansing and data analysis
-- Below you can find my code
+- Below you can find my code and graphs
 
 ```python
 #importing
@@ -65,14 +65,9 @@ df.to_csv('all.csv', index=False, encoding='utf-8')
 
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 2. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/Figure_1.png"/>
 <img src="images/Figure_2.png"/>
 <img src="images/Figure_3.png"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
