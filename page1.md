@@ -4,6 +4,8 @@
 - Designed and implemented databases in SSMS for the purpose of descriptive statistical analysis, data cleansing and data analysis
 - Below you can find my code and graphs
 
+
+### 1. Code
 ```python
 #importing
 from bs4 import BeautifulSoup
@@ -65,7 +67,7 @@ df.to_csv('all.csv', index=False, encoding='utf-8')
 
 ```
 
-### 2. Support the selection of appropriate statistical tools and techniques
+### 2. Graphs
 
 <img src="images/Figure_1.png"/>
 <img src="images/Figure_2.png"/>
