@@ -4,11 +4,20 @@
 
 ### Projects 
 
-[Data Scraping and Analysis](/page1)
+[Sudoku Game and Solver ](/page2)
 
 
 ---
-[Cryptocurrency-predicting RNN Model ](/page2)
+[Sudoku Game and Solver ](/page2)
+
+
+---
+
+[Sudoku Game and Solver ](/page2)
+
+
+---
+[Data Scraping and Analysis on E-commerce Website](/page1)
 
 ---
 ### Resume
