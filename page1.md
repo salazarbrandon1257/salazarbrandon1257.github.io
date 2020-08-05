@@ -72,4 +72,3 @@ df.to_csv('all.csv', index=False, encoding='utf-8')
 <img src="images/Figure_1.png"/>
 <img src="images/Figure_2.png"/>
 <img src="images/Figure_3.png"/>
-
