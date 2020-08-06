@@ -8,7 +8,7 @@
 
 
 ---
-[Sorting Algorithms Visualizer and UI (React/Redux)](/page2)
+[Sorting Algorithms Visualizer and UI (React/Redux)](/page4)
 
 
 ---
