@@ -6,7 +6,7 @@
 - Below is a screenshot of the game with a clear board
 <br /> 
 
-### 1. Game Screenshot
+### 1. Game Screenshots
 
 <img src="images/SudokuScreenshot.png"/>
 
