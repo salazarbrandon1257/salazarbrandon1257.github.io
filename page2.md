@@ -6,7 +6,7 @@
 - Below is a screenshot of the game with a clear board
 <br /> 
 
-### 1. Assess assumptions on which statistical inference will be based
+### 1. Game Screenshot
 
 <img src="images/SudokuScreenshot.png"/>
 
