@@ -10,6 +10,8 @@
 
 <img src="images/SudokuScreenshot.png"/>
 
+<img src="images/Screenshot(62).png"/>
+
 ### 2. Below is the code for the Game
 
 ``` python
