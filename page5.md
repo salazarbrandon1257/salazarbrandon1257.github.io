@@ -3,7 +3,7 @@
 [github project link](https://github.com/salazarbrandon1257/Android-Chat-Application)
 -	Developed and published android app on Google Play Store that allows users to chat with each other 
 -	Implemented Firebase (authorization, databases), and designed User Interface 
-- Below is a screenshot of the main page after logging in
+- Below are screenshots of the app
 
 <img src="images/Mathek.png"/>
 
