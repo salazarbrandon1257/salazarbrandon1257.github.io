@@ -20,7 +20,8 @@ if (isAwesome){
 
 <img src="images/SudokuScreenshot.png"/>
 ### 3. Support the selection of appropriate statistical tools and techniques
-'''python
+
+''' python
 
 import argparse
 
