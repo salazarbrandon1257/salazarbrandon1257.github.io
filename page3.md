@@ -9,6 +9,8 @@
 <img src="images/Problems (2)-1.jpg"/>
 <img src="images/Problems (2)-2.jpg"/>
 
+---
+
 ### 2. Solutions
 <img src="images/Solutions (1)-1.jpg"/>
 <img src="images/Solutions (1)-2.jpg"/>
