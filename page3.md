@@ -5,7 +5,7 @@
 - I Analyzed data and found best fitting distributions in order to obtain expected values and probabilities, and inlcuded such plots showcasing the pearson residuals
 - I Derived and presented meaningful conclusions from a real dataset of 260,000 objects and 9 variables
 
-
+### 1. Problems 
 
 <img src="images/SudokuScreenshot.png"/>
 <img src="images/SudokuScreenshot.png"/>
