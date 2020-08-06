@@ -310,8 +310,6 @@ if __name__ == '__main__':
 ### 3. Below is the code for the Solver
 
 ``` python
-# solver.py
-
 import argparse
 BOARDS = ['debug', 'error', 'n00b'] 
 
