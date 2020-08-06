@@ -6,3 +6,4 @@
 <br /> 
 
 [Visualizer link](https://salazarbrandon1257.github.io/sorting-visualizer/)
+[Project Link](https://github.com/salazarbrandon1257/sorting-visualizer)
