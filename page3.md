@@ -7,5 +7,5 @@
 
 ### 1. Problems 
 
-<img src="images/SudokuScreenshot.png"/>
-<img src="images/SudokuScreenshot.png"/>
+<img src="images/Problems (2)-1.jpg"/>
+<img src="images/Problems (2)-2.jpg"/>
