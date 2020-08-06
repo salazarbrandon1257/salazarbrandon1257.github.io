@@ -5,5 +5,6 @@
 -	Implemented Firebase (authorization, databases), and designed User Interface 
 - Below is a screenshot of the main page after logging in
 
-<img src="images/Mathek"/>
+<img src="images/Mathek.png"/>
+
 <img src="images/Screenshot(54).png"/>
