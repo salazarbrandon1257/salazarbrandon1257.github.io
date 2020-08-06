@@ -6,6 +6,7 @@
 - I Derived and presented meaningful conclusions from a real dataset of 260,000 objects and 9 variables
 
 ### 1. Problems 
-
 <img src="images/Problems (2)-1.jpg"/>
 <img src="images/Problems (2)-2.jpg"/>
+
+### 1. Solutions
