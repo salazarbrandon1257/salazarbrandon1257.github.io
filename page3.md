@@ -10,3 +10,13 @@
 <img src="images/Problems (2)-2.jpg"/>
 
 ### 1. Solutions
+<img src="images/Solutions (1)-1.jpg"/>
+<img src="images/Solutions (1)-2.jpg"/>
+<img src="images/Solutions (1)-3.jpg"/>
+<img src="images/Solutions (1)-4.jpg"/>
+<img src="images/Solutions (1)-5.jpg"/>
+<img src="images/Solutions (1)-6.jpg"/>
+<img src="images/Solutions (1)-7.jpg"/>
+<img src="images/Solutions (1)-8.jpg"/>
+
+
