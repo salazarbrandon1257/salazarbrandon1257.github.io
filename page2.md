@@ -21,7 +21,7 @@ if (isAwesome){
 <img src="images/SudokuScreenshot.png"/>
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-''' python
+``` python
 
 import argparse
 
@@ -312,7 +312,7 @@ if __name__ == '__main__':
         root.geometry("%dx%d" % (WIDTH, HEIGHT + 40))
         root.mainloop()
         
-'''
+```
 
 
 ### 4. Provide a basis for further data collection through surveys or experiments
